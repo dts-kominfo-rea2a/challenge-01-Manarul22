@@ -6,7 +6,7 @@ const firstUser = {
   gender: "Female",
   age: 17,
   email: "monica@dingdong.com",
-  favoriteColor: ["orange, black, blue"],
+  favoriteColor: ["brown, gray, lightgrey"],
   isHavePet: true,
   education: [
     {
@@ -24,7 +24,19 @@ const firstUser = {
       city: "Tangerang",
     },
   ],
-  favoriteRestaurant: ["Baso Pengkolan", "Baso Aci", "Mie Ayam Tawon"],
+  favoriteRestaurant: [
+    "Baso Pengkolan",
+    "Baso Aci",
+    "Mie Ayam Tawon",
+    "mi kohkol",
+    "mie cina",
+    "mi korea",
+    "mi india",
+    "mi amerika",
+    "mi jepang",
+    "mi jerman",
+    "mi taiwan",
+  ],
 };
 const secondUser = {
   name: "Wendy",
@@ -32,7 +44,7 @@ const secondUser = {
   age: 23,
   email: "wendy@dingdong.com",
   favoriteColor: ["magenta, ocean, lightblue"],
-  isHavePet: true,
+  isHavePet: no,
   education: [
     {
       name: "SD 02",
@@ -54,7 +66,17 @@ const secondUser = {
       city: "Tangerang",
     },
   ],
-  favoriteRestaurant: ["Baso Ceu Onah", "Baso EMas", "Mie Ayam Kangkung"],
+  favoriteRestaurant: [
+    "Baso Ceu Onah",
+    "Baso EMas",
+    "Mie Ayam Kangkung",
+    "mie aceh",
+    "mie indomie",
+    "mie sedaap",
+    "mie sakura",
+    "mi sarami",
+    "mie urab",
+  ],
 };
 
 const desc = "Data User :";
