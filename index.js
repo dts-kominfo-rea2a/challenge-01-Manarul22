@@ -44,7 +44,7 @@ const secondUser = {
   age: 23,
   email: "wendy@dingdong.com",
   favoriteColor: ["magenta, ocean, lightblue"],
-  isHavePet: no,
+  isHavePet: false,
   education: [
     {
       name: "SD 02",
