@@ -39,7 +39,7 @@ const secondUser = {
   gender: "Male",
   age: 23,
   email: "wendy@dingdong.com",
-  favoriteColor: ["magenta, ocean, lightblue"],
+  favoriteColor: ["magenta, ocean, darkblue"],
   isHavePet: false,
   education: [
     {
