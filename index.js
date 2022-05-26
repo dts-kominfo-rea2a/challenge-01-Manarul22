@@ -6,7 +6,7 @@ const firstUser = {
   gender: "Female",
   age: 17,
   email: "monica@dingdong.com",
-  favoriteColor: ["brown, gray, lightgrey"],
+  favoriteColor: ["brown, gray, lightgrey", "lightgreen"],
   isHavePet: true,
   education: [
     {
@@ -31,11 +31,7 @@ const firstUser = {
     "mi kohkol",
     "mie cina",
     "mi korea",
-    "mi india",
-    "mi amerika",
-    "mi jepang",
-    "mi jerman",
-    "mi taiwan",
+    "mi india"
   ],
 };
 const secondUser = {
@@ -75,7 +71,6 @@ const secondUser = {
     "mie sedaap",
     "mie sakura",
     "mi sarami",
-    "mie urab",
   ],
 };
 
